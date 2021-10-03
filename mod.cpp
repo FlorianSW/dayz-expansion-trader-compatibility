@@ -1,0 +1,10 @@
+name = "Expansion Trader Compatibility";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "Provides compatibility between DayZ Expansion and the Trader mod";
+overview = "";
+action = "https://go2tech.de";
+author = "Florian Schmidt";
+version = "1.0";
